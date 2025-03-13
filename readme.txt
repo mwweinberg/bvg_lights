@@ -1,3 +1,7 @@
+![image of BVG lights in action: radiating strips of LEDs with some on indicating incoming trains](https://michaelweinberg.org/images/bvg_light_annotated.png)
+
+A blogpost explaining how all of this works is available [here](https://michaelweinberg.org/blog/2025/03/08/pi-powered-bvg-alerts/). 
+
 
 ###########to actually run the script
 
